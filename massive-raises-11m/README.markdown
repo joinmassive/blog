@@ -79,7 +79,7 @@ providing blockchain and web3 projects with distributed infrastructure. Let us k
 interested in [using our network to distribute or decentralize](https://joinmassive.com/daas) your
 project.
 
-## And we’re hiring!
+## And we’re hiring<em>!</em>
 
 We need help bringing this new business model to hundreds of millions of users, so we’re doubling
 our headcount from 10 to 20. We’re currently looking for Business Directors, C/C++ Developers, a
