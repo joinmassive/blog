@@ -2,7 +2,7 @@
 
 _By [Jason Grad](https://github.com/codeninja23)_
 
-![](massive.jpg)
+![Massive, a new business model for the internet](massive.jpg)
 
 The dominant internet business models, ads and paywalls, don’t work for the vast majority of people
 around the world, whether they’re users or developers. We think we’ve found a better way, one that
@@ -37,7 +37,7 @@ to collaborate more closely with blockchain projects. We’re excited that
 [Adam Carson](https://p72.vc/team/adam-k-carson/) from [Point72 Ventures](https://p72.vc/), who
 shares this vision for our compute-based business model, has joined our board.
 
-![](investors.png)
+![Massive’s investors](investors.png)
 
 We also wanted to add a syndicate of strategic investors to bring more blockchain experience to our
 team, so we couldn’t be happier to welcome [Coinbase Ventures](https://ventures.coinbase.com/),
@@ -94,7 +94,7 @@ startup, please reach out to jobs@joinmassive.com.
 We’ll even turn you into a gaming avatar of your design on
 [our team page](https://joinmassive.com/team). Here’s mine:
 
-![](jason.gif)
+![Jason Grad, the avatar](jason.gif)
 
 _This post was originally published at
 [blog.joinmassive.com](https://blog.joinmassive.com/massive-raises-11m-for-a-new-business-model-for-the-internet-5c28619b52fd)._
