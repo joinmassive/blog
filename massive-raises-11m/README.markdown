@@ -29,8 +29,6 @@ rates for our developer partners, who give their users the option to pay with Ma
 consistently 30% or higher and their average revenue per user (ARPU) is over 3x higher than their
 ARPU with ads.
 
-![](investors.png)
-
 ## Who invested
 
 We wanted our lead investor to be a fintech fund with both cryptocurrency and non-cryptocurrency
@@ -38,6 +36,8 @@ investments so they’d support both Massive as payments infrastructure company 
 to collaborate more closely with blockchain projects. We’re excited that
 [Adam Carson](https://p72.vc/team/adam-k-carson/) from [Point72 Ventures](https://p72.vc/), who
 shares this vision for our compute-based business model, has joined our board.
+
+![](investors.png)
 
 We also wanted to add a syndicate of strategic investors to bring more blockchain experience to our
 team, so we couldn’t be happier to welcome [Coinbase Ventures](https://ventures.coinbase.com/),
