@@ -1,4 +1,4 @@
-# Massive<br><sub><sup>A Markdown version of our blog, about alternative business models, distributed computing, and re-decentralizing the internet
+# ![Massive](massive.png)<br><sub><sup>A Markdown version of our blog, about alternative business models, distributed computing, and re-decentralizing the internet
 
 ### 2021
 
