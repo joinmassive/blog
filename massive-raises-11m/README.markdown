@@ -40,7 +40,7 @@ shares this vision for our compute-based business model, has joined our board.
 ![Massive’s investors](investors.png)
 
 We also wanted to add a syndicate of strategic investors to bring more blockchain experience to our
-team, so we couldn’t be happier to welcome [Coinbase Ventures](https://ventures.coinbase.com/),
+team, so we couldn’t be happier to welcome [Coinbase Ventures](https://www.coinbase.com/ventures),
 [Kraken Ventures](https://www.krakenventures.com/),
 [BlockTower Capital](https://www.blocktower.com/),
 [CoinShares Ventures](https://coinshares.com/active/cs-ventures), and
