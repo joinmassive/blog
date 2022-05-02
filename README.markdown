@@ -9,6 +9,8 @@
 
 Copyright 2021, 2022 Massive Computing, Inc.
 
+![Creative Commons](cc.svg) ![Attribution](by.svg)
+
 This content, excluding the brand features identified in the [Exceptions](#exceptions) below, is
 licensed under a
 [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
