@@ -17,9 +17,6 @@ the world has access to<sup><a href="#references">2</a></sup>: your computer or 
 Here’s how such an alternative might work and what my team and I are building as a possible
 foundation.
 
-_[Our newsletter](https://upscri.be/f/c3cwu9) covers more about distributed computing and
-re-decentralizing the internet._
-
 ## My backstory
 
 I’ve been an indie developer for most of the last decade and launched or helped launch **more than
