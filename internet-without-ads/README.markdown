@@ -52,9 +52,9 @@ million attributable deaths**<sup><a href="#references">14</a></sup> in just the
 Sugar, with similar promotional backing and adverse health effects, is fast becoming the next
 tobacco. In the US, this industry runs **about $2.4 billion of ads** annually for sweetened cereal,
 snacks, and drinks<sup><a href="#references">15</a></sup> (compared with $9.1 billion run by the
-tobacco industry<sup><a href="#references">12</a>,&nbsp;<a href="#references">13</a></sup>. Obesity,
-meanwhile, is the leading preventable cause of death behind only tobacco use, at **365 thousand
-attributable deaths** per year (to tobacco use’s 435 thousand deaths).<sup><a
+tobacco industry<sup><a href="#references">12</a>,&nbsp;<a href="#references">13</a></sup>).
+Obesity, meanwhile, is the leading preventable cause of death behind only tobacco use, at **365
+thousand attributable deaths** per year (to tobacco use’s 435 thousand deaths).<sup><a
 href="#references">16</a></sup>
 
 ### Getting personal (info)
