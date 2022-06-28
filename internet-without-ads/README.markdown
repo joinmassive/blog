@@ -277,7 +277,8 @@ _This post was originally published at
     Statcounter
 21. <a
     href="https://web.archive.org/web/20210304064540/https://vertoanalytics.com/chart-of-the-week-what-are-the-most-popular-mapping-apps/">What
-    are the most popular mapping apps<em>?</em></a>, Verto Analytics (archived by the Internet Archive)
+    are the most popular mapping apps<em>?</em></a>, Verto Analytics (archived by the Internet
+    Archive)
 22. [About audience targeting](https://support.google.com/google-ads/answer/2497941), Google Ads
     Help
 23. [Facebook 2020 10-K](https://www.sec.gov/Archives/edgar/data/1326801/000132680121000014/fb-20201231.htm),
