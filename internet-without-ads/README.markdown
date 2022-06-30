@@ -82,17 +82,17 @@ out, like and follower counts that inflate and deflate your self-esteem, and in-
 notifications that ply you with intermittent reinforcement.
 
 Facebook, which a fourth of the world’s population uses daily<sup><a
-href="#references">23</a>,&nbsp;<a href="#references">24</a></sup>, subjects these users to
-continuous psychological experiments in service of a **28% higher engagement rate** year over year
-since 2017<sup><a href="#references">25–28</a></sup>. One of the few of the experiments that
-Facebook data scientists have published reveals that the platform modifies the sentiment of user
-news feeds and that increasing the proportion of positive or, especially, negative posts results in
-more engaged (and emotional) users, measured by number (and type) of words posted.<sup><a
+href="#references">23</a>,&nbsp;<a href="#references">24</a></sup>, subjects users to continuous
+psychological experiments in service of a **28% higher engagement rate** year over year since
+2017<sup><a href="#references">25–28</a></sup>. One of the few of these experiments Facebook data
+scientists have published reveals that the platform modifies the sentiment of user news feeds and
+that increasing the proportion of positive or, especially, negative posts results in more engaged
+(and emotional) users, measured by number (and type) of words posted.<sup><a
 href="#references">29</a></sup>
 
-For all that ad and social networks poke and prod you, internet advertising still isn’t very
-profitable. The average app developer makes just **$0.05 per user per month** from ads.<sup><a
-href="#references">30</a></sup>
+Despite all that ad and social networks poke and prod you, internet advertising still isn’t very
+profitable other than for the biggest businesses. The average app developer makes just **$0.05 per
+user per month** from ads.<sup><a href="#references">30</a></sup>
 
 ## A new way to make money and pay online
 
@@ -190,7 +190,7 @@ Initial attempts to commercialize distributed computing were less successful.
 computing marketplaces that tried to connect buyers who had arbitrary workloads and sellers who had
 spare capacity.
 
-Each marketplace had the chicken-and-egg problem inherent in two-sided markets. Buyers can’t buy
+Each marketplace had the chicken-and-egg problem inherent in two-sided markets; buyers can’t buy
 before there are sellers and sellers can’t sell before there are buyers, unless the market
 subsidizes the missing supply or demand.
 
@@ -222,8 +222,8 @@ consumption limits, both technically and legally:
 
 ## Join us
 
-We’ve initially shipped Windows and macOS versions of Massive and have since prototyped SDKs for
-mobile and the web. If you’re a desktop developer, you can [start adding Massive to your
+We shipped Windows and macOS versions of Massive initially and have since prototyped SDKs for mobile
+and the web. If you’re a desktop developer, you can [start adding Massive to your
 apps](https://joinmassive.com/partners) now.
 
 If you’re not but are a mobile or web developer or are interested in topics like **alternative
