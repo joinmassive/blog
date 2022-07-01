@@ -63,7 +63,7 @@ Online advertising promised to “enhance” ad targeting and, in turn, performa
 track your web searches, browsing history, app usage, and physical location and the rest of your
 internet behavior to profile your interests in clinical detail then predict what ads you’ll click.
 
-The largest ad network by market share<sup><a href="#references">17</a></sup>, Google, is able to
+The largest ad network by market share, Google<sup><a href="#references">17</a></sup>, is able to
 collect **92% of web searches**<sup><a href="#references">18</a></sup>, **34% of browsing
 history**<sup><a href="#references">19</a></sup>, **73% of app usage**<sup><a
 href="#references">20</a></sup>, and **72% of geolocation requests**<sup><a
