@@ -14,8 +14,8 @@ choose to pay with power of a sort that’s much less personally valuable and th
 the world has access to<sup><a href="#references">2</a></sup>: your computer or mobile device’s
 **idle processing power**<em>?</em>
 
-Here’s how such an alternative might work and what my team and I are building as a possible
-foundation.
+Here’s how an alternative business model might work and what my team and I are building as a
+possible foundation.
 
 ## My backstory
 
@@ -35,8 +35,7 @@ I could’ve made Adblock Fast, for instance, a paid app or made a subset of Adb
 in-app purchases or subscription upgrades, but then **less than 1% of nonpaying users** would’ve
 likely converted<sup><a href="#references">8</a></sup>. Alternatively, I could’ve defaulted to the
 source of **62% of app revenue** by peddling ads<sup><a href="#references">9</a></sup> (some ad
-blockers, ironically, are paid for by advertisers themselves<sup><a
-href="#references">10</a></sup>).
+blockers, ironically, do generate revenue by unblocking ads<sup><a href="#references">10</a></sup>).
 
 ## Advertising on steroids, on crack
 
@@ -50,9 +49,9 @@ ads**<sup><a href="#references">12</a>,&nbsp;<a href="#references">13</a></sup> 
 million attributable deaths**<sup><a href="#references">14</a></sup> in just the United States.
 
 Sugar, with similar promotional backing and adverse health effects, is fast becoming the next
-tobacco. In the US, this industry runs **about $2.4 billion of ads** annually for sweetened cereal,
-snacks, and drinks<sup><a href="#references">15</a></sup> (compared with $9.1 billion run by the
-tobacco industry<sup><a href="#references">12</a>,&nbsp;<a href="#references">13</a></sup>).
+tobacco. In the US, the sugar industry runs **about $2.4 billion of ads** annually for sweetened
+cereal, snacks, and drinks<sup><a href="#references">15</a></sup> (compared with $9.1 billion run by
+the tobacco industry<sup><a href="#references">12</a>,&nbsp;<a href="#references">13</a></sup>).
 Obesity, meanwhile, is the leading preventable cause of death behind only tobacco use, at **365
 thousand attributable deaths** per year (to tobacco use’s 435 thousand deaths).<sup><a
 href="#references">16</a></sup>
@@ -60,8 +59,9 @@ href="#references">16</a></sup>
 ### Getting personal (info)
 
 Online advertising promised to “enhance” ad targeting and, in turn, performance. Current ad networks
-track your web searches, browsing history, app usage, and physical location and the rest of your
-internet behavior to profile your interests in clinical detail then predict what ads you’ll click.
+track your web searches, browsing history, app usage, and physical location, as well as the rest of
+your internet behavior, to profile your interests in clinical detail then predict what ads you’ll
+click.
 
 The largest ad network by market share, Google<sup><a href="#references">17</a></sup>, is able to
 collect **92% of web searches**<sup><a href="#references">18</a></sup>, **34% of browsing
@@ -86,13 +86,13 @@ href="#references">23</a>,&nbsp;<a href="#references">24</a></sup>, subjects use
 psychological experiments in service of a **28% higher engagement rate** year over year since
 2017<sup><a href="#references">25–28</a></sup>. One of the few of these experiments Facebook data
 scientists have published reveals that the platform modifies the sentiment of user news feeds and
-that increasing the proportion of positive or, especially, negative posts results in more engaged
+that increasing the proportion of positive or, especially, of negative posts results in more engaged
 (and emotional) users, measured by number (and type) of words posted.<sup><a
 href="#references">29</a></sup>
 
-Despite all that ad and social networks poke and prod you, internet advertising still isn’t very
-profitable other than for the biggest businesses. The average app developer makes just **$0.05 per
-user per month** from ads.<sup><a href="#references">30</a></sup>
+Despite all that ad and social networks poke and prod you, internet advertising isn’t very
+profitable except for the biggest businesses. The average app developer makes just **$0.05 per user
+per month** from ads.<sup><a href="#references">30</a></sup>
 
 ## A new way to make money and pay online
 
@@ -105,7 +105,7 @@ blocking video ads, in exchange for monetizing their leftover processing power:
 **39% of nonpaying users** opted in to upgrade.
 
 After more of my upgrade offers were as well-received, we founded a company to develop my then-toy
-implementation into a real product that other developers could include in their apps. That company
+implementation into a real product that all developers could include in their apps. That company
 is **Massive** and the product is the **Massive SDK**.
 
 The Massive SDK is a cross-platform app library, currently available for **Windows 7 and up** and
@@ -145,7 +145,7 @@ then be given tooling to monitor and control the SDK’s resource consumption.
 ### Imperceptibility
 
 Second, Massive is imperceptible when active. The SDK is trained on anonymous telemetry data to
-consume minimal resources in the background and to avoid contending with foreground processes.
+consume minimal resources in the background and avoid contending with foreground processes.
 
 ### Privacy and security
 
@@ -167,18 +167,18 @@ Yes, you’ve heard this idea somewhere before.
 ### Distributed computing
 
 **SETI@home** was<sup><a href="#references">31</a></sup> one of the first projects to scale
-distributed computing over the internet. Citizen scientists downloaded data from radio telescopes to
-their computers then analyzed the data in the “search for extraterrestrial intelligence” (SETI).
-Over **almost 20 years of operation**, the project acquired **more than 4 million desktop users**,
-who identified **more than 7 billion unusual signals** for further analysis.<sup><a
-href="#references">32</a></sup>
+distributed computing over the internet. Citizen scientists would download data from radio
+telescopes to their computers then analyze the data in the “search for extraterrestrial
+intelligence” (SETI). Over **almost 20 years of operation**, the project acquired **more than 4
+million desktop users**, who identified **more than 7 billion unusual signals** for further
+analysis.<sup><a href="#references">32</a></sup>
 
-The project’s core software was also generalized as **BOINC** (Berkeley Open Infrastructure for
+The project’s core software was also abstracted out as **BOINC** (Berkeley Open Infrastructure for
 Network Computing; developers seldom miss an opportunity to coin a TLA<sup><a
 href="#references">33</a></sup>) and has spawned **more than 50 related projects**<sup><a
 href="#references">34</a></sup>. An example is **Folding@home**, which simulates protein synthesis
 to discover “misfoldings” that lead to diseases like cancer, diabetes, and Alzheimer’s and which
-Massive donates a portion of processing to:
+Massive donates a portion of processing power to:
 
 ![Massive’s Folding@home team](foldingathome.png)
 
@@ -190,30 +190,28 @@ Initial attempts to commercialize distributed computing were less successful.
 computing marketplaces that tried to connect buyers who had arbitrary workloads and sellers who had
 spare capacity.
 
-Each marketplace had the chicken-and-egg problem inherent in two-sided markets; buyers can’t buy
+Each marketplace had the chicken-and-egg problem inherent in two-sided markets. Buyers can’t buy
 before there are sellers and sellers can’t sell before there are buyers, unless the market
 subsidizes the missing supply or demand.
 
-The emergence of mineable cryptocurrency has given Massive a means to synthesize demand when
-necessary and bootstrap to **more than 100 thousand opted-in users** and their supply of computers
-(if compared as a blockchain project, Massive may already have the most computer nodes of any
+The emergence of mineable cryptocurrency has given Massive a means to synthesize demand when needed
+and bootstrap to **more than 100 thousand opted-in users** and their supply of computers (if
+compared as a blockchain project, Massive may already have the most computing nodes of any such
 project<sup><a href="#references">38</a></sup>).
 
 ### Embedded cryptomining
 
 **Coinhive** was<sup><a href="#references">39</a></sup> a mysterious company<sup><a
 href="#references">40</a></sup> that solved the chicken-and-egg problem with a clever and likewise
-cryptocurrency-adjacent product, a capable miner miniaturized to execute in-browser (the
-miniaturization was accomplished by porting the ASIC-resistant CryptoNote hashing algorithm to the
-native-speed WebAssembly binary format). Publishers could install the miner on their sites as an ad
-or paywall replacement and **up to 40 thousand publishers** did<sup><a
-href="#references">41</a></sup>.
+cryptocurrency-adjacent product, a miner miniaturized to execute in-browser (the miniaturization
+was accomplished by porting the ASIC-resistant CryptoNote hashing algorithm to the native-speed
+WebAssembly binary format). Publishers could install the miner on their sites as an ad or paywall
+replacement and **up to 40 thousand publishers** did<sup><a href="#references">41</a></sup>.
 
-The company created a bigger problem by failing to require user permission or to limit CPU and
-energy consumption, though, and most Coinhive-enabled sites ended up being illegitimate or
-compromised (Salon was a rare exception<sup><a href="#references">42</a></sup>). These sites were
-effectively engaged in drive-by mining, which fueled a new malware classification called
-“cryptojacking”.
+The company created a bigger problem by failing to require user permission or limit CPU and energy
+consumption, though, and most Coinhive-enabled sites ended up being illegitimate or compromised
+(Salon was a rare exception<sup><a href="#references">42</a></sup>). These sites were effectively
+engaged in drive-by mining, which fueled a new malware classification called “cryptojacking”.
 
 To prevent this problem, Massive enforces prominent user opt-in and usage controls and reasonable
 consumption limits, both technically and legally:
