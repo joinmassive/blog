@@ -35,7 +35,7 @@ I could’ve made Adblock Fast, for instance, a paid app or made a subset of Adb
 in-app purchases or subscription upgrades, but then **less than 1% of nonpaying users** would’ve
 likely converted<sup><a href="#references">8</a></sup>. Alternatively, I could’ve defaulted to the
 source of **62% of app revenue** by peddling ads<sup><a href="#references">9</a></sup> (some ad
-blockers, ironically, do generate revenue by unblocking ads<sup><a href="#references">10</a></sup>).
+blockers are ironically paid not to block ads<sup><a href="#references">10</a></sup>).
 
 ## Advertising on steroids, on crack
 
@@ -105,7 +105,7 @@ blocking video ads, in exchange for monetizing their leftover processing power:
 **39% of nonpaying users** opted in to upgrade.
 
 After more of my upgrade offers were as well-received, we founded a company to develop my then-toy
-implementation into a real product that all developers could include in their apps. That company
+implementation into a real product that every developer could include in their apps. That company
 is **Massive** and the product is the **Massive SDK**.
 
 The Massive SDK is a cross-platform app library, currently available for **Windows 7 and up** and
