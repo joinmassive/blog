@@ -277,8 +277,7 @@ _This post was originally published at
     Statcounter
 21. <a
     href="https://web.archive.org/web/20210304064540/https://vertoanalytics.com/chart-of-the-week-what-are-the-most-popular-mapping-apps/">What
-    are the most popular mapping apps<em>?</em></a>, Verto Analytics (archived by the Internet
-    Archive)
+    are the most popular mapping apps<em>?</em></a>, Verto Analytics (archived)
 22. [About audience targeting](https://support.google.com/google-ads/answer/2497941), Google Ads
     Help
 23. [Facebook 2020 10-K](https://www.sec.gov/Archives/edgar/data/1326801/000132680121000014/fb-20201231.htm),
@@ -301,23 +300,22 @@ _This post was originally published at
 31. [SETI@home hibernation](https://setiathome.berkeley.edu/forum_thread.php?id=85267), SETI@home
 32. [A brief history of SETI@home](https://www.theatlantic.com/science/archive/2017/05/aliens-on-your-packard-bell/527445/),
     The Atlantic
-33. [TLA](http://catb.org/jargon/html/T/TLA.html), The Jargon File
+33. [TLA](http://catb.org/jargon/html/T/TLA.html), The Jargon File (non-secure)
 34. [Project list](https://boinc.berkeley.edu/wiki/Project_list), Berkeley Open Infrastructure for
     Network Computing
-35. [Entropia](http://www.scottkurowski.com/entropia/), Scott Kurowski
+35. [Entropia](http://www.scottkurowski.com/entropia/), Scott Kurowski (non-secure)
 36. [Another RTP firm bites the dust](https://www.wraltechwire.com/2002/10/29/another-rtp-firm-bites-the-dust-porivo-technologies-is-sold/),
     WRAL TechWire
-37. [Popular Power turns off the lights](https://web.archive.org/web/20161120085932/http://www.openp2p.com/pub/a/p2p/2001/03/19/poppower.html),
-    O’Reilly Open P2P (archived by the Internet Archive)
+37. [Popular Power turns off the lights](https://web.archive.org/web/20161120085932/https://www.openp2p.com/pub/a/p2p/2001/03/19/poppower.html),
+    O’Reilly Open P2P (archived)
 38. [Cryptos ranked by number of nodes](https://medium.com/coinmonks/cryptos-ranked-by-number-of-nodes-d3ee0b7cad03),
     Coinmonks
 39. [Discontinuation of Coinhive](https://web.archive.org/web/20190428191407/https://coinhive.com/blog/en/discontinuation-of-coinhive),
-    Coinhive (archived by the Internet Archive)
+    Coinhive (archived)
 40. <a href="https://krebsonsecurity.com/2018/03/who-and-what-is-coinhive/">Who and what is
     Coinhive<em>?</em></a>, Krebs on Security
 41. [How to find cryptojacking malware](https://badpackets.net/how-to-find-cryptojacking-malware/),
     Bad Packets
 42. <a
     href="https://web.archive.org/web/20200604052723/https://www.salon.com/about/faq-what-happens-when-i-choose-to-suppress-ads-on-salon">What
-    happens when I choose to “Suppress Ads” on Salon<em>?</em></a>, Salon (archived by the Internet
-    Archive)
+    happens when I choose to “Suppress Ads” on Salon<em>?</em></a>, Salon (archived)
