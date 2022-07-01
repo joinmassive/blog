@@ -249,7 +249,7 @@ _This post was originally published at
     Samsung Internet Developers
 6.  [Improving tracking prevention in Microsoft Edge](https://blogs.windows.com/msedgedev/2019/12/03/improving-tracking-prevention-microsoft-edge-79/),
     Microsoft Edge Blog
-7.  [Adblock Fast](https://adblockfast.com/), Adblock Fast
+7.  [About](https://adblockfast.com/#about), Adblock Fast
 8.  [The truth about conversion ratios for downloadable software](https://successfulsoftware.net/2009/04/23/the-truth-about-conversion-ratios-for-software/),
     Successful Software
 9.  [The kinds of mobile app monetization](https://www.appannie.com/en/academy/monetize/kinds-mobile-app-monetization),
