@@ -2,7 +2,7 @@
 
 _By [Brian Kennish](https://github.com/oldestlivingboy)_
 
-![The world’s idle processing power](world.png)
+![The world’s idle processing power](power.png)
 
 Using online apps and websites has turned into an **attention-grabbing**, **emotion-manipulating**,
 **privacy-violating** experience that even the web’s creator regrets<sup><a
