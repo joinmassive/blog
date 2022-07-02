@@ -35,7 +35,8 @@ I could’ve made Adblock Fast, for instance, a paid app or made a subset of Adb
 in-app purchases or subscription upgrades, but then **less than 1% of nonpaying users** would’ve
 likely converted<sup><a href="#references">8</a></sup>. Alternatively, I could’ve defaulted to the
 source of **62% of app revenue** by peddling ads<sup><a href="#references">9</a></sup> (some ad
-blockers are ironically paid not to block ads<sup><a href="#references">10</a></sup>).
+blockers are ironically paid by advertisers to not block “acceptable ads”<sup><a
+href="#references">10</a></sup>).
 
 ## Advertising on steroids, on crack
 
