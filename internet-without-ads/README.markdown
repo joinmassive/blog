@@ -109,7 +109,7 @@ After more of my upgrade offers were as well-received, we founded a company to d
 implementation into a real product that every developer could include in their apps. That company
 is **Massive** and the product is the **Massive SDK**.
 
-The Massive SDK is a cross-platform app library, currently available for **Windows 7 and up** and
+The Massive SDK is a cross-platform app framework, currently available for **Windows 7 and up** and
 **macOS 10.10 and up**, that gives users the option to pay for features, content, and services with
 a tiny amount of their processing power, storage, and bandwidth.
 
