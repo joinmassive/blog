@@ -73,10 +73,10 @@ notifications that ply you with intermittent reinforcement.
 
 Facebook, which a fourth of the world’s population uses daily[^23]<sup>, </sup>[^24], subjects users
 to continuous psychological experiments in service of a **28% higher engagement rate** year over
-year since 2017[^25]<sup>–</sup>[^28]. One of the few of these experiments Facebook data scientists
-have published reveals that the platform modifies the sentiment of user news feeds and that
-increasing the proportion of positive or, especially, of negative posts results in more engaged (and
-emotional) users, measured by number (and type) of words posted.[^29]
+year since 2017[^25]<sup>, </sup>[^26]<sup>, </sup>[^27]<sup>, </sup>[^28]. One of the few of these
+experiments Facebook data scientists have published reveals that the platform modifies the sentiment
+of user news feeds and that increasing the proportion of positive or, especially, of negative posts
+results in more engaged (and emotional) users, measured by number (and type) of words posted.[^29]
 
 Despite all that ad and social networks poke and prod you, internet advertising isn’t very
 profitable except for the biggest businesses. The average app developer makes just **$0.05 per user
@@ -172,8 +172,9 @@ Massive donates a portion of processing power to:
 
 Initial attempts to commercialize distributed computing were less successful.
 
-**Entropia**, **Porivo**, and **Popular Power** were[^35]<sup>–</sup>[^37] computing marketplaces
-that tried to connect buyers who had arbitrary workloads and sellers who had spare capacity.
+**Entropia**, **Porivo**, and **Popular Power** were[^35]<sup>, </sup>[^36]<sup>, </sup>[^37]
+computing marketplaces that tried to connect buyers who had arbitrary workloads and sellers who had
+spare capacity.
 
 Each marketplace had the chicken-and-egg problem inherent in two-sided markets. Buyers can’t buy
 before there are sellers and sellers can’t sell before there are buyers, unless the market
