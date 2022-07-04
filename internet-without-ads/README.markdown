@@ -60,7 +60,7 @@ href="#references">16</a></sup>
 ### Getting personal (info)
 
 Online advertising promised to “enhance” ad targeting and, in turn, performance. Current ad networks
-track your web searches, browsing history, app usage, and physical location, as well as the rest of
+track your web searches, browsing history, app usage, and physical location, along with the rest of
 your internet behavior, to profile your interests in clinical detail then predict what ads you’ll
 click.
 
