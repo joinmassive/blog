@@ -12,9 +12,6 @@ excited to announce that we just raised an $11 million seed round for our startu
 
 Here’s more info about what we’re working on and how you can get involved.
 
-_[Our newsletter](https://upscri.be/f/c3cwu9) covers more about distributed computing and
-re-decentralizing the internet._
-
 ## What we do
 
 Massive provides an SDK to app developers that lets users opt in to pay for premium features with
