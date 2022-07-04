@@ -209,10 +209,11 @@ was accomplished by porting the ASIC-resistant CryptoNote hashing algorithm to t
 WebAssembly binary format). Publishers could install the miner on their sites as an ad or paywall
 replacement and **up to 40 thousand publishers** did<sup><a href="#references">41</a></sup>.
 
-The company created a bigger problem by failing to require user permission or limit CPU and energy
-consumption, though, and most Coinhive-enabled sites ended up being illegitimate or compromised
-(Salon was a rare exception<sup><a href="#references">42</a></sup>). These sites were effectively
-engaged in drive-by mining, which fueled a new malware classification called “cryptojacking”.
+The company created a more serious problem by failing to require user permission or limit CPU and
+energy consumption, though, and most Coinhive-enabled sites ended up being illegitimate or
+compromised (Salon was a rare exception<sup><a href="#references">42</a></sup>). These sites were
+effectively engaged in drive-by mining, which fueled a new malware classification called
+“cryptojacking”.
 
 To prevent this problem, Massive enforces prominent user opt-in and usage controls and reasonable
 consumption limits, both technically and legally:
