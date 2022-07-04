@@ -106,8 +106,8 @@ blocking video ads, in exchange for monetizing their leftover processing power:
 **39% of nonpaying users** opted in to upgrade.
 
 After more of my upgrade offers were as well-received, we founded a company to develop my then-toy
-implementation into a real product that every developer could include in their apps. That company
-is **Massive** and the product is the **Massive SDK**.
+implementation into a real product that every developer could include in their apps. That company is
+**Massive** and the product is the **Massive SDK**.
 
 The Massive SDK is a cross-platform app framework, currently available for **Windows 7 and up** and
 **macOS 10.10 and up**, that gives users the option to pay for features, content, and services with
@@ -293,9 +293,8 @@ _This post was originally published at
     NewsWhip
 29. [Experimental evidence of massive-scale emotional contagion through social networks](https://www.pnas.org/content/111/24/8788),
     The Proceedings of the National Academy of Sciences
-30. <a
-    href="https://www.developereconomics.com/blog/how-much-is-an-active-user-worth">How much is an
-    active user worth<em>?</em></a>, SlashData
+30. <a href="https://www.developereconomics.com/blog/how-much-is-an-active-user-worth">How much is
+    an active user worth<em>?</em></a>, SlashData
 31. [SETI@home hibernation](https://setiathome.berkeley.edu/forum_thread.php?id=85267), SETI@home
 32. [A brief history of SETI@home](https://www.theatlantic.com/science/archive/2017/05/aliens-on-your-packard-bell/527445/),
     The Atlantic
