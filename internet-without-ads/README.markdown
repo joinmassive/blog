@@ -12,8 +12,8 @@ What if, rather than being forced by internet advertisers to pay with your brain
 choose to pay with power of a sort that’s much less personally valuable and that almost everyone in
 the world has access to[^2]: your computer or mobile device’s **idle processing power**<em>?</em>
 
-Here’s how an alternative business model might work and what my team and I are building as a
-possible foundation.
+Here’s how an alternative business model for the internet might work and what my team and I are
+building as a possible foundation.
 
 ## My backstory
 
@@ -28,8 +28,8 @@ I never figured out how to generate sustainable revenue from a lot of these apps
 hits, though.
 
 I could’ve made Adblock Fast, for instance, a paid app or made a subset of Adblock Fast’s features
-in-app purchases or subscription upgrades, but then **less than 1% of nonpaying users** would’ve
-likely converted[^8]. Alternatively, I could’ve defaulted to the source of **62% of app revenue** by
+in-app purchases or subscription upgrades, but **less than 1% of nonpaying users** would’ve likely
+converted[^8]. Alternatively, I could’ve defaulted to the source of **62% of app revenue** by
 peddling ads[^9] (some ad blockers are ironically paid by advertisers to not block “acceptable
 ads”[^10]).
 
@@ -156,9 +156,9 @@ Yes, you’ve heard this idea somewhere before.
 
 **SETI@home** was[^31] one of the first projects to scale distributed computing over the internet.
 Citizen scientists would download data from radio telescopes to their computers then analyze the
-data in the “search for extraterrestrial intelligence” (SETI). Over **almost 20 years of
-operation**, the project acquired **more than 4 million desktop users**, who identified **more than
-7 billion unusual signals** for further analysis.[^32]
+data in the “search for extraterrestrial intelligence” (the referred-to “SETI”). Over **almost 20
+years of operation**, the project acquired **more than 4 million desktop users**, who identified
+**more than 7 billion unusual signals** for further analysis.[^32]
 
 The project’s core software was also abstracted out as **BOINC** (Berkeley Open Infrastructure for
 Network Computing; developers seldom miss an opportunity to coin a TLA[^33]) and has spawned **more
