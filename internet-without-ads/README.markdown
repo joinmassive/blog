@@ -205,7 +205,7 @@ consumption limits, both technically and legally:
 
 ## Join us
 
-We shipped Windows and macOS versions of Massive initially and have since prototyped SDKs for mobile
+We’ve initially released Windows and macOS versions of Massive and prototyped versions for mobile
 and the web. If you’re a desktop developer, you can [start adding Massive to your
 apps](https://joinmassive.com/partners) now.
 
