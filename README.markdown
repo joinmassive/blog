@@ -2,12 +2,12 @@
 
 ### 2021
 
-*  [Massive raises $11M for a new business model for the internet](massive-raises-11m) (November 30)
-*  [Reimagining the internet, without ads](internet-without-ads) (June 13)
+* [Massive raises $11M for a new business model for the internet](massive-raises-11m) (November 30)
+* [Reimagining the internet, without ads](internet-without-ads) (June 13)
 
 ## License
 
-Copyright 2021, 2022 Massive Computing, Inc.
+Copyright 2021– Massive Computing, Inc.
 
 ![Creative Commons](cc.svg) ![Attribution](by.svg)
 
